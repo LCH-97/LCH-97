@@ -54,7 +54,8 @@ k8s, jenkins를 활용한 CI/CD (롤링 업데이트 방식)<br><br>
 역할<br>
 1. 휴가기능 백엔드 [JAVA SpringBoot] (CRUD / aws s3 활용 파일첨부 / 결재라인 결재)<br>
 2. 휴가기능 프론트엔드 [Vue]<br>
-3. Redis 적용<br>
-4. Jenkins 파이프라인 구성<br><br>
+3. QueryDSL 적용<br>
+4. Redis 적용<br>
+5. Jenkins 파이프라인 구성<br><br>
 </details>
 </details>
