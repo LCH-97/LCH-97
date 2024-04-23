@@ -5,6 +5,8 @@
 1997.01.22
 ### Start
 2023.10.30
+### 전공
+토목공학과
 ### 수강 교육
 한화시스템 BEYOND SW 캠프  -  [링크](https://swcamp-hanwha.com/)<br>
 훈련 기간 : 2023-10-30 - 2024-04-22<br>
@@ -12,7 +14,7 @@
 
 # 📄 프로젝트
 <details>
-<summary> ✨ 한화시스템 BEYOND SW 캠프 </summary>
+<summary> ✨ 한화시스템 BEYOND SW 캠프 (총 5개) </summary>
 
 ### 1. 미니 프로젝트 - DB : 반려동물 케어 서비스 Woof
 <details>
