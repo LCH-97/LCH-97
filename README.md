@@ -51,10 +51,10 @@ k8s, jenkins를 활용한 CI/CD (롤링 업데이트 방식)<br>
 <summary> </summary>
 <a href="https://github.com/beyond-sw-camp/be02-fin-Hello_R_loha-HRsystem">README 보러가기</a><br>
 프로젝트 기간 : 2024.02.27 ~ 2024.04.22<br>
-역할
-1. 휴가기능 백엔드 [JAVA SpringBoot] (CRUD / aws s3 활용 파일첨부 / 결재라인 결재)
-2. 휴가기능 프론트엔드 [Vue]
-3. Redis 적용
-4. Jenkins 파이프라인 구성
+역할<br>
+1. 휴가기능 백엔드 [JAVA SpringBoot] (CRUD / aws s3 활용 파일첨부 / 결재라인 결재)<br>
+2. 휴가기능 프론트엔드 [Vue]<br>
+3. Redis 적용<br>
+4. Jenkins 파이프라인 구성<br>
 </details>
 </details>
