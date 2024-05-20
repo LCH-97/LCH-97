@@ -10,6 +10,8 @@
 훈련 기간 : 2023-10-30 - 2024-04-22<br>
 <br>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=[LCH-97]&show_icons=true&theme=radical)
+
 # 📄 프로젝트
 <details>
 <summary> ✨ 한화시스템 BEYOND SW 캠프 (총 5개) </summary>
