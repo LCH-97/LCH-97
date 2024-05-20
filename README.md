@@ -9,14 +9,17 @@
 한화시스템 BEYOND SW 캠프  -  [링크](https://swcamp-hanwha.com/)<br>
 훈련 기간 : 2023-10-30 - 2024-04-22<br>
 <br>
-
+### 커밋내역
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LCH-97&show_icons=true&theme=radical)
 
 # 📄 프로젝트
 <details>
 <summary> ✨ 한화시스템 BEYOND SW 캠프 (총 5개) </summary>
 
-### 1. 미니 프로젝트 - DB : 반려동물 케어 서비스 Woof
+### 1. 반려동물 케어 서비스 Woof
+<details>
+<summary> </summary>
+DB
 <details>
 <summary> </summary>
 <a href="https://github.com/beyond-sw-camp/be02-1st-woof-animal_careservice">README 보러가기</a><br><br>
@@ -24,7 +27,7 @@
 Centos 8, Mysql을 이용하여 Master-Slave로 DB 구성<br><br>
 </details>
 
-### 2. 미니 프로젝트 - Backend : 반려동물 케어 서비스 Woof
+Backend
 <details>
 <summary> </summary>
 <a href="https://github.com/beyond-sw-camp/be02-2nd-woof-animal_careservice">README 보러가기</a><br><br>
@@ -32,7 +35,7 @@ Centos 8, Mysql을 이용하여 Master-Slave로 DB 구성<br><br>
 JAVA SpringBoot 프로젝트<br><br>
 </details>
 
-### 3. 미니 프로젝트 - Frontend : 반려동물 케어 서비스 Woof
+Frontend
 <details>
 <summary> </summary>
 <a href="https://github.com/beyond-sw-camp/be02-3rd-woof-animal_careservice">README 보러가기</a><br><br>
@@ -40,12 +43,13 @@ JAVA SpringBoot 프로젝트<br><br>
 Backend 미니 프로젝트를 백엔드로 사용한 Vue 프로젝트<br><br>
 </details>
 
-### 4. 미니 프로젝트 - CI/CD : 반려동물 케어 서비스 Woof
+CI/CD
 <details>
 <summary> </summary>
 <a href="https://github.com/beyond-sw-camp/be02-4th-woof-animal_careservice">README 보러가기</a><br><br>
 프로젝트 기간 : 2024.02.23 ~ 2024.02.26<br><br>
 k8s, jenkins를 활용한 CI/CD (롤링 업데이트 방식)<br><br>
+</details>
 </details>
 
 ### 5. 최종 프로젝트 : 인사관리 시스템
