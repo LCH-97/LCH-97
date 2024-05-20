@@ -27,6 +27,14 @@
 3. QueryDSL 적용<br>
 4. Redis 적용<br>
 5. Jenkins 파이프라인 구성<br><br>
+
+HRsystem 시연영상 (회원가입, 로그인)
+[![Watch the video](https://img.youtube.com/vi/https://youtu.be/KtDn619Y0H8/maxresdefault.jpg)](https://www.youtube.com/watch?v=https://youtu.be/KtDn619Y0H8)
+HRsystem 시연영상 (메인기능 - 결재/휴가/초과근무)
+[![Watch the video](https://img.youtube.com/vi/https://youtu.be/dPlu-y5JgBk/maxresdefault.jpg)](https://www.youtube.com/watch?v=https://youtu.be/dPlu-y5JgBk)
+<br><br>
+
+
 </details>
 
 ### 2. 반려동물 케어 서비스 Woof
