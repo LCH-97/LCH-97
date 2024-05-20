@@ -16,31 +16,7 @@
 <details>
 <summary> ✨ 한화시스템 BEYOND SW 캠프 (총 5개) </summary>
 
-### 1. 반려동물 케어 서비스 Woof
-<details>
-<summary> </summary>
-DB
-<a href="https://github.com/beyond-sw-camp/be02-1st-woof-animal_careservice">README 보러가기</a><br><br>
-프로젝트 기간 : 2023.11.16 ~ 2023.11.17<br><br>
-Centos 8, Mysql을 이용하여 Master-Slave로 DB 구성<br><br>
-
-Backend
-<a href="https://github.com/beyond-sw-camp/be02-2nd-woof-animal_careservice">README 보러가기</a><br><br>
-프로젝트 기간 : 2024.01.15 ~ 2024.01.17<br><br>
-JAVA SpringBoot 프로젝트<br><br>
-
-Frontend
-<a href="https://github.com/beyond-sw-camp/be02-3rd-woof-animal_careservice">README 보러가기</a><br><br>
-프로젝트 기간 : 2024.02.05 ~ 2024.02.06<br><br>
-Backend 미니 프로젝트를 백엔드로 사용한 Vue 프로젝트<br><br>
-
-CI/CD
-<a href="https://github.com/beyond-sw-camp/be02-4th-woof-animal_careservice">README 보러가기</a><br><br>
-프로젝트 기간 : 2024.02.23 ~ 2024.02.26<br><br>
-k8s, jenkins를 활용한 CI/CD (롤링 업데이트 방식)<br><br>
-</details>
-
-### 2. 인사관리 시스템 Hello_R_loha (HR)
+### 1. 인사관리 시스템 Hello_R_loha (HR)
 <details>
 <summary> </summary>
 <a href="https://github.com/beyond-sw-camp/be02-fin-Hello_R_loha-HRsystem">README 보러가기</a><br><br>
@@ -52,4 +28,25 @@ k8s, jenkins를 활용한 CI/CD (롤링 업데이트 방식)<br><br>
 4. Redis 적용<br>
 5. Jenkins 파이프라인 구성<br><br>
 </details>
+
+### 2. 반려동물 케어 서비스 Woof
+<details>
+<summary> </summary>
+<a href="https://github.com/beyond-sw-camp/be02-1st-woof-animal_careservice">DB README 보러가기</a><br><br>
+프로젝트 기간 : 2023.11.16 ~ 2023.11.17<br><br>
+Centos 8, Mysql을 이용하여 Master-Slave로 DB 구성<br><br>
+
+<a href="https://github.com/beyond-sw-camp/be02-2nd-woof-animal_careservice">Backend README 보러가기</a><br><br>
+프로젝트 기간 : 2024.01.15 ~ 2024.01.17<br><br>
+JAVA SpringBoot 프로젝트<br><br>
+
+<a href="https://github.com/beyond-sw-camp/be02-3rd-woof-animal_careservice">Frontend README 보러가기</a><br><br>
+프로젝트 기간 : 2024.02.05 ~ 2024.02.06<br><br>
+Backend 미니 프로젝트를 백엔드로 사용한 Vue 프로젝트<br><br>
+
+<a href="https://github.com/beyond-sw-camp/be02-4th-woof-animal_careservice">CI/CD README 보러가기</a><br><br>
+프로젝트 기간 : 2024.02.23 ~ 2024.02.26<br><br>
+k8s, jenkins를 활용한 CI/CD (롤링 업데이트 방식)<br><br>
+</details>
+
 </details>
