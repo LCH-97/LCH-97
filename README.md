@@ -19,7 +19,9 @@
 ### 1. 인사관리 시스템 Hello_R_loha (HR)
 <details>
 <summary> </summary>
-<a href="https://github.com/beyond-sw-camp/be02-fin-Hello_R_loha-HRsystem">README 보러가기</a><br><br>
+<a href="https://github.com/beyond-sw-camp/be02-fin-Hello_R_loha-HRsystem">README 보러가기</a><br>
+<a href="https://youtu.be/KtDn619Y0H8">HRsystem 시연영상 (회원가입, 로그인)</a><br>
+<a href="https://youtu.be/dPlu-y5JgBk">HRsystem 시연영상 (메인기능 - 결재/휴가/초과근무)</a><br><br>
 
 ![image](https://github.com/LCH-97/LCH-97/assets/148935493/ab8efd88-8989-4bd3-b8fa-9ff5450c791a)
   
@@ -30,10 +32,7 @@
 3. QueryDSL 적용<br>
 4. Redis 적용<br>
 5. Jenkins 파이프라인 구성<br><br>
-
-<a href="https://youtu.be/KtDn619Y0H8">HRsystem 시연영상 (회원가입, 로그인)</a><br>
-<a href="https://youtu.be/dPlu-y5JgBk">HRsystem 시연영상 (메인기능 - 결재/휴가/초과근무)</a>
-<br><br>
+<br>
 
 
 </details>
