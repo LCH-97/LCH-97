@@ -14,7 +14,7 @@
 
 # 📄 프로젝트
 <details>
-<summary> ✨ 한화시스템 BEYOND SW 캠프 (총 5개) </summary>
+<summary> ✨ 한화시스템 BEYOND SW 캠프 </summary>
 
 ### 1. 인사관리 시스템 Hello_R_loha (HR)
 <details>
