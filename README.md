@@ -57,4 +57,20 @@ Backend 미니 프로젝트를 백엔드로 사용한 Vue 프로젝트<br><br>
 k8s, jenkins를 활용한 CI/CD (롤링 업데이트 방식)<br><br>
 </details>
 
+<summary> ✨ 부트캠프 이후 </summary>
+
+### 1. 반려동물 케어 서비스 Woof 리팩토링
+<details>
+<summary> </summary>
+<a href="https://github.com/jyk147369/fin-WOOF-animal_careservice">Git-Hub 보러가기</a><br>
+(현재 프로젝트 진행중입니다. 역할은 백엔드(Product), 프론트엔드(Product)이며, 기존 아쉬웠던 프로젝트인 Woof를 리팩토링하면서 추가로 관심있었던 Elasticsearch의 도입을 목표로 하고 있습니다.)
+</details>
+
+### 2. CS 스터디
+<details>
+<summary> </summary>
+<a href="https://velog.io/@windowhoon/posts">velog 보러가기</a><br>
+(주 1~2회 모여 범위를 정해 공부해오고 서로 발표를 하는 시간을 갖고 있습니다. 발표를 준비할 때 velog에 정리 후 참고자료로 사용하여 발표를 하였습니다.)
+</details>
+
 </details>
