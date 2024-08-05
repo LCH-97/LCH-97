@@ -37,7 +37,7 @@
 
 </details>
 
-### 2. 반려동물 케어 서비스 Woof
+### 2. 반려동물 케어 서비스 Woof (인사관리시스템과 구성은 같습니다.)
 <details>
 <summary> </summary>
 <a href="https://github.com/beyond-sw-camp/be02-1st-woof-animal_careservice">DB README 보러가기</a><br>
